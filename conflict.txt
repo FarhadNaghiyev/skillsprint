@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 3rd commit
+=======
+things
+x>>>>>>> week2day1
