@@ -55,3 +55,5 @@ verify
 create a file
 005
 006
+commit 
+007
