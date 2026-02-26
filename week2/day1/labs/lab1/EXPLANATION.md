@@ -41,3 +41,17 @@
 
 ### 8. Final state of conflict.txt
 ![Final File State](10.png)
+
+
+
+checking branch
+001
+create new branch
+002
+switch to new branhch
+003
+verify
+004.png
+create a file
+005
+006
