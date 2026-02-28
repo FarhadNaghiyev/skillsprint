@@ -16,4 +16,4 @@
 ![Git process step 6](./images/06.png)
 
 # amend
-![amend](/images/07.png)
+![amend](./images/07.png)
