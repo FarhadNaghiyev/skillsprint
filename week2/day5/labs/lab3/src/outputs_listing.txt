@@ -1,0 +1,11 @@
+total 40
+-rw-r--r-- 1 root root  194 Mar  8 16:35 archive-20260308-163500.tgz
+-rw-r--r-- 1 root root  194 Mar  8 17:03 archive-20260308-170337.tgz
+-rw-r--r-- 1 root root  194 Mar  8 17:06 archive-20260308-170607.tgz
+-rw-r--r-- 1 root root 2278 Mar  8 16:57 lab7-20260308-165722.tgz
+-rw-r--r-- 1 root root 2661 Mar  8 17:03 lab7-20260308-170339.tgz
+-rw-r--r-- 1 root root 2661 Mar  8 17:06 lab7-20260308-170609.tgz
+-rw-r--r-- 1 root root  294 Mar  8 17:04 lab7-cron.txt
+-rw-r--r-- 1 root root 1930 Mar  8 17:06 lab7.log
+-rw-r--r-- 1 root root 1300 Mar  8 17:06 top-error-times.txt
+-rw-r--r-- 1 root root  290 Mar  8 17:06 top-programs.txt

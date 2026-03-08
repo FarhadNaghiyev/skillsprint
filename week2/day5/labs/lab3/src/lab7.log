@@ -1,0 +1,19 @@
+[2026-03-06_12:37:34] common.sh initialized from root
+[2026-03-08_16:19:45] Matched files: 0 (dir=/root/lab7/demo pattern=*.log older_than=0)
+[2026-03-08_16:35:00] Matched files: 5 (dir=/root/lab7/demo pattern=*.log older_than=0)
+[2026-03-08_16:35:00] Created archive: /root/lab7-outputs/archive-20260308-163500.tgz
+[2026-03-08_16:52:46] proc pid=36647 cpu=0.0% rss=2MB cmd=sleep 120
+[2026-03-08_16:52:46] proc pid=36653 cpu=0.0% rss=4MB cmd=awk -v pat=sleep NR>1 { cmd=""; for(i=11;i<=NF;i++) cmd=cmd" "$i; if(cmd ~ pat && cmd !~ /proc_watch\.sh/) printf "%s %s %s %s\n",$2,$3,$6,cmd }
+[2026-03-08_16:52:47] proc pid=36647 cpu=0.0% rss=2MB cmd=sleep 120
+[2026-03-08_16:52:47] proc pid=36663 cpu=0.0% rss=4MB cmd=awk -v pat=sleep NR>1 { cmd=""; for(i=11;i<=NF;i++) cmd=cmd" "$i; if(cmd ~ pat && cmd !~ /proc_watch\.sh/) printf "%s %s %s %s\n",$2,$3,$6,cmd }
+[2026-03-08_16:52:48] proc pid=36647 cpu=0.0% rss=2MB cmd=sleep 120
+[2026-03-08_16:52:48] proc pid=36679 cpu=0.0% rss=4MB cmd=awk -v pat=sleep NR>1 { cmd=""; for(i=11;i<=NF;i++) cmd=cmd" "$i; if(cmd ~ pat && cmd !~ /proc_watch\.sh/) printf "%s %s %s %s\n",$2,$3,$6,cmd }
+[2026-03-08_16:57:22] Backup created and verified: /root/lab7-outputs/lab7-20260308-165722.tgz
+[2026-03-08_17:01:22] Log parsing complete for syslog. Output in /root/lab7-outputs
+[2026-03-08_17:03:37] Matched files: 5 (dir=/root/lab7/demo pattern=*.log older_than=0)
+[2026-03-08_17:03:37] Created archive: /root/lab7-outputs/archive-20260308-170337.tgz
+[2026-03-08_17:03:39] Backup created and verified: /root/lab7-outputs/lab7-20260308-170339.tgz
+[2026-03-08_17:03:39] Log parsing complete for syslog. Output in /root/lab7-outputs
+[2026-03-08_17:06:07] Matched files: 5 (dir=/root/lab7/demo pattern=*.log older_than=0)
+[2026-03-08_17:06:07] Created archive: /root/lab7-outputs/archive-20260308-170607.tgz
+[2026-03-08_17:06:09] Backup created and verified: /root/lab7-outputs/lab7-20260308-170609.tgz
